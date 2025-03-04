@@ -58,4 +58,8 @@ Education
 
 Salary
 
+📎 Live Dashboard
+
+Check out the live HR dashboard on Tableau Public:🔗 [View Dashboard](https://public.tableau.com/app/profile/tannu.bohra/vizzes)
+
 Allows users to filter the list based on any of the available columns for easy data retrieval and analysis.
